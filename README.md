@@ -96,9 +96,3 @@ Menu **Fichier → Sauvegarder / Ouvrir** : les paramètres visuels et les indic
 Projet universitaire réalisé dans le cadre de ma formation en informatique.
 
 Ce projet m'a permis de mettre en pratique la programmation orientée objet à travers le développement d'une application Java complète, intégrant une interface graphique interactive, plusieurs possibilités de personnalisation et un mécanisme de sauvegarde de la configuration.
-
-## Réalisation
-
-Melissa IKERROUYENE
-
-Conception et développement du code Java.
