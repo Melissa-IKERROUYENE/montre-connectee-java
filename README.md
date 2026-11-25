@@ -4,6 +4,10 @@ Application Java permettant de simuler une montre connectée et de personnaliser
 
 Le projet repose sur une conception orientée objet et une interface graphique développée avec Java Swing. Il permet de gérer différents éléments visuels de la montre ainsi que plusieurs informations associées à son fonctionnement.
 
+## Aperçu
+
+![Aperçu du simulateur de montre personnalisable](docs/apercu.gif)
+
 ## Fonctionnalités
 
 - Affichage analogique et numérique de l'heure
